@@ -1,4 +1,5 @@
-  ![profile-github-security-devops](https://github.com/user-attachments/assets/3a2ba6a5-bd60-4abd-bf73-944451a0f705)
+  ![guilherme-sec-github](https://github.com/user-attachments/assets/3ef89ef0-c49a-4e12-ab9b-62a655876360)
+
 
 ---
 
