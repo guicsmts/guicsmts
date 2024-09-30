@@ -4,11 +4,11 @@
 ---
 
 ## 📝 About me
-🔐 Especialista em segurança da informação com ampla experiência em tecnologia. Atualmente, estou apoiando empresas a melhorar sua eficiência tecnológica com estratégias eficazes de Segurança da Informação, FinOps e DevSecOps.
-🤝 Valorizo profundamente a colaboração com pessoas engajadas e estudiosas, pois acredito que a diversidade de ideias e o trabalho em equipe são fundamentais para transformar visões em realidades.
-🎯 Ajudo organizações que desejam fortalecer seu ecossistema tecnológico e de governança, aplicando minhas experiências para impulsionar o ambiente de inovação.
+- 🔐 Especialista em segurança da informação com ampla experiência em tecnologia. Atualmente, estou apoiando empresas a melhorar sua eficiência tecnológica com estratégias eficazes de Segurança da Informação, FinOps e DevSecOps.
+- 🤝 Valorizo profundamente a colaboração com pessoas engajadas e estudiosas, pois acredito que a diversidade de ideias e o trabalho em equipe são fundamentais para transformar visões em realidades.
+- 🎯 Ajudo organizações que desejam fortalecer seu ecossistema tecnológico e de governança, aplicando minhas experiências para impulsionar o ambiente de inovação.
 
-
+---
 
 - 🎓 Superior Tecnológico em **Segurança da Informação**
 - 🔐 Especialista em **Segurança da Informação** / **Segurança Ofensiva**
