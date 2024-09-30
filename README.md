@@ -1,10 +1,6 @@
-<h1 align="center">Hi there, I'm Guilherme</h1>
+  ![profile-github-security-devops](https://github.com/user-attachments/assets/3a2ba6a5-bd60-4abd-bf73-944451a0f705)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/guilhermemtts/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+
 
 ---
 
@@ -13,7 +9,7 @@
 - 🔐 Especialista em **Segurança da Informação** / **Segurança Ofensiva**
 - 🖥️ Administrador de **Sistemas Linux**, **Serviços Gerenciais**, **Redes de Computadores**
 - 🏋️ Gosto de praticar **Atividades Físicas** e **Estudar** um pouco mais!
-- 🤔 Gostaria de saber mais sobre? [Clique aqui](https://www.linkedin.com/in/guilhermemtts/)
+- 🤔 Gostaria de saber mais sobre? [Clique aqui](#)
 
 ---
 
@@ -36,7 +32,4 @@
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 20px; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=guicsmts&show_icons=true&theme=radical" alt="GitHub Stats" style="flex: 1; max-width: 45%;">
-  </div>
-</p>
-
----
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicsmts&layout=compact&theme=radical" alt="Top Langs" style="flex
