@@ -1,10 +1,6 @@
   ![profile-github-security-devops](https://github.com/user-attachments/assets/3a2ba6a5-bd60-4abd-bf73-944451a0f705)
 
 ---
-  ![profile2-github-security-devops](https://github.com/user-attachments/assets/a61b0690-38fe-4e37-9862-c363728361fc)
-
-
----
 
 ## 📝 About me
 - 🎓 Superior Tecnológico em **Segurança da Informação**
