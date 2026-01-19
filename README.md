@@ -1,5 +1,5 @@
-  ![guilherme-sec-github](https://github.com/user-attachments/assets/3ef89ef0-c49a-4e12-ab9b-62a655876360)
 
+![hacking_the_world](https://github.com/user-attachments/assets/c2cfd300-1974-4bb2-bb98-d6fb87fbe522)
 
 ---
 
