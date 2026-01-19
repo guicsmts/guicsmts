@@ -1,5 +1,5 @@
+![cover_profile](https://github.com/user-attachments/assets/eec34714-a219-4cc5-b566-806e8ef2ba7b)
 
-![hacking_the_world](https://github.com/user-attachments/assets/c2cfd300-1974-4bb2-bb98-d6fb87fbe522)
 
 ---
 
